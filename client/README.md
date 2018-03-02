@@ -6,9 +6,9 @@ These instructions will get you a copy of the project up and running on your loc
 ## Some pointers on how to navigate
 - The App contains two views
   - Company List View
-    This view displays all the available companies and the user can add a new company or add a new person to an existing company.
+    - This view displays all the available companies and the user can add a new company or add a new person to an existing company.
   - Person List View
-    This view contains all the people associated with an selected company from the previous view.
+    - This view contains all the people associated with an selected company from the previous view.
 - Navigating from Person List View to Home page
   - Click the "Sigfig" header on the App header bar.
 

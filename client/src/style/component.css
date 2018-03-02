@@ -1,0 +1,60 @@
+.Company-List {
+    width: 80%;
+    display: inline-block;
+}
+
+.Company-card {
+    width: 300px;
+    min-height: 200px;
+    margin-top: 10px; 
+    margin-left: 10px;
+    float: left;
+}
+
+.Company-title {
+    text-align: left;
+    margin: 15px 0px;
+}
+
+.Person-card {
+    width: 300px;
+    min-height: 100px;
+    margin-top: 10px; 
+    margin-left: 10px;
+    float: left;
+}
+
+.Card-body {
+    padding-left: 0;
+}
+
+.Card-utility {
+    display: inline-flex;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    font-size: 1.2em;
+}
+
+.Card-delete {
+    margin-left: 10px;
+    line-height: 1.2em;
+}
+
+.Card-subtitle {
+    padding-top: 10px;
+}
+
+.Card-addIcon,.Card-addPersonIcon {
+    font-size: 6.8em;
+}
+
+.Card-addIcon-Person {
+    font-size: 2.4em;
+    min-height: 99px;
+}
+
+
+.Button-spacing {
+    padding-bottom: 15px;
+}

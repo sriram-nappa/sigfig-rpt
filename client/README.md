@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Changes made to Server
 - Included cors package as the react application couldn't make cross-origin requests with the server.
 
-##Pre-requisite
+## Pre-requisite
 * Run the server first. Refer README from Parent Folder
 
 ## To install and run frontend project
